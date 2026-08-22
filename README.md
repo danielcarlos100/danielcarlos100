@@ -9,6 +9,14 @@ Tenho interesse em programação, banco de dados, inteligência artificial, soft
 
 Gosto de fazer meus próprios projetos na área de programação por conta própria para fixar meu aprendizado, meu objetivo é criar projetos que tenham relação com sistemas reais.
 
+# Interesses
+Python, Banco de Dados e SQL, C
+Inteligência Artificial
+Programação, Desenvolvimento de Software
+Software, Hardware
+
+
+
 
 # Tech Stack
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="50" alt="pgadmin4" />
