@@ -10,11 +10,14 @@ Tenho interesse em programação, banco de dados, inteligência artificial, soft
 Gosto de fazer meus próprios projetos na área de programação por conta própria para fixar meu aprendizado, meu objetivo é criar projetos que tenham relação com sistemas reais.
 
 # Interesses
-Python, Banco de Dados e SQL, C
-Inteligência Artificial
-Programação, Desenvolvimento de Software
-Software, Hardware
 
+- Python
+- Banco de Dados e SQL
+- C
+- Inteligência Artificial
+- Programação
+- Software
+- Hardware
 
 
 
