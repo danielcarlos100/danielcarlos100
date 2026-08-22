@@ -24,6 +24,10 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 
 Ciência da Computação Universidade Cruzeiro do Sul 2026 — 2029
 
+# Conexões 
+
+<a href="https://www.linkedin.com/in/daniel-carlos-15786441a/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
+
 
 
 
