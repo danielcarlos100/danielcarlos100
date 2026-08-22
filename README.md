@@ -11,14 +11,19 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 
 # Interesses
 
-- Python
-- Banco de Dados e SQL
-- linguagem C
-- Inteligência Artificial
-- Programação
-- Desenvolvimento de Software
-- Software
-- Hardware
+ Python
+ 
+ Banco de Dados e SQL
+ 
+ Linguagem C
+ 
+ Inteligência Artificial
+ 
+ Programação
+ 
+ Software
+ 
+ Hardware
 
 
 
