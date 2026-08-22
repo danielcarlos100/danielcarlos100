@@ -30,6 +30,8 @@ Ciência da Computação Universidade Cruzeiro do Sul 2026 — 2029
 
 <a href="https://discord.com/channels/@me"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"> </a>
 
+<a href="https://www.instagram.com/daniel.carlos_100?igsi=MmR1Z2R3ZG1jeW9i"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF"> </a>
+
 
 
 
