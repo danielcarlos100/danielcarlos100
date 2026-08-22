@@ -20,6 +20,10 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 <img src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png" height="50" alt="mysql" />
 
 
+# Educação 
+
+Ciência da Computação Universidade Cruzeiro do Sul 2026 — 2029
+
 
 
 
