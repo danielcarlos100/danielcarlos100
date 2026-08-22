@@ -13,11 +13,14 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 
 - Python
 - Banco de Dados e SQL
-- C
+- linguagem C
 - Inteligência Artificial
 - Programação
+- Desenvolvimento de Software
 - Software
 - Hardware
+
+
 
 
 
