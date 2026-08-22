@@ -22,7 +22,8 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 
 # Educação 
 
-Ciência da Computação Universidade Cruzeiro do Sul 2026 — 2029
+Ciência da Computação — Universidade Braz Cubas
+2026 — 2029
 
 # Conexões 
 
