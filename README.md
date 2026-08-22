@@ -28,6 +28,8 @@ Ciência da Computação Universidade Cruzeiro do Sul 2026 — 2029
 
 <a href="https://www.linkedin.com/in/daniel-carlos-15786441a/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"> </a>
 
+<a href="https://discord.com/channels/@me"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"> </a>
+
 
 
 
