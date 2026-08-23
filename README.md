@@ -76,3 +76,51 @@ Ciência da Computação — Universidade Braz Cubas
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="300" height="350" alt="invadi vc :3 " src="https://github.com/user-attachments/assets/f93ab286-2d96-4d2b-8f26-9ae9474f191b" />
+
+
+Dion esteve aqui hehehehe
+
+
+
+
+
+
+
