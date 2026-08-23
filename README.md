@@ -113,10 +113,6 @@ Ciência da Computação — Universidade Braz Cubas
 <a href="https://github.com/dion-dalton"> <img width="300" height="350" alt="invadi vc :3 " src="https://github.com/user-attachments/assets/f93ab286-2d96-4d2b-8f26-9ae9474f191b" /> </a>
 
 
-
-<img width="300" height="350" alt="invadi vc :3 " src="https://github.com/user-attachments/assets/f93ab286-2d96-4d2b-8f26-9ae9474f191b" />
-
-
 Dion esteve aqui hehehehe
 
 
