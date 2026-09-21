@@ -14,12 +14,12 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
  Python
  
  Banco de Dados e SQL
+
+ Desenvolvimento Web
  
  Linguagem C
  
  Inteligência Artificial
-
- Desenvolvimento Web
  
  Programação
  
