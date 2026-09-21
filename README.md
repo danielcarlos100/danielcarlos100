@@ -37,6 +37,7 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 <img src="https://www.dev-cpp.com/images/embarcaderodevcpp256.png" height="50" alt="DevC++" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" height="50" alt="github" />
 <img src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png" height="50" alt="mysql" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9I9gawgLUYATHUojgpstEa6NFQetSGmu8SomZ_G439A&s=10" height="50" alt="html">
 
 
 # Educação 
