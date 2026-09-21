@@ -18,6 +18,8 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
  Linguagem C
  
  Inteligência Artificial
+
+ Desenvolvimento Web
  
  Programação
  
