@@ -37,7 +37,6 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="vscode" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201031132917" height="50" alt="C" />
 <img src="https://www.dev-cpp.com/images/embarcaderodevcpp256.png" height="50" alt="DevC++" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" height="50" alt="github" />
 <img src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png" height="50" alt="mysql" />
 <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" height="50" alt="html">
 <img src="/assets/css.png" height="50" alt="css">
