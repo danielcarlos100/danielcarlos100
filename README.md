@@ -40,6 +40,7 @@ Gosto de fazer meus próprios projetos na área de programação por conta próp
 <img src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png" height="50" alt="mysql" />
 <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" height="50" alt="html">
 <img src="/assets/css.png" height="50" alt="css">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyC1LazfpPsDecwFwxiBe_L61Wmq8jWBBgL5Y2CI0wTQ&s=10" height="50" alt="JavaScript">
 
 
 # Educação 
